@@ -3,3 +3,4 @@
 ## Welcome
 version 1.0
 메롱메롱
+다른컴퓨터에서해봄
